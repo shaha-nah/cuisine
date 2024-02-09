@@ -1,0 +1,21 @@
+{
+    "items": [
+      {
+        "name": "item1",
+        "expiration_date": "31/03/2024"
+      },
+      {
+        "name": "item2",
+        "expiration_date": "31/03/2024"
+      },
+      {
+        "name": "item3",
+        "expiration_date": "31/03/2024"
+      },
+      {
+        "name": "item3",
+        "expiration_date": ""
+      }
+    ]
+  }
+  
